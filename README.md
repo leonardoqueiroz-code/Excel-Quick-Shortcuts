@@ -8,3 +8,16 @@
 <strong>- Ctrl+Alt+P:</strong> Exibe a guia Imprimir<br>
 <strong>- Ctrl+Alt+O:</strong> Cria uma nova pasta de trabalho em branco.<br>
 <strong>- Ctrl+Alt+K</strong> Exibe a caixa de diálogo Inserir Hiperlink</p>
+
+
+<strong>- Page Down	</strong> Move a tela para baixo</p>
+<strong>-Page Up	</strong> Move a tela para cima</p>
+<strong>-Alt+Page Down	</strong> Move a tela para a direita</p>
+<strong>-Alt+Page Up	</strong> Move a tela para esquerda</p>
+<strong>- Tab</strong> Move a seleção da célula para a direita</p>
+<strong>-Shift+Tab	</strong>Move a seleção da célula para a esquerda</p>
+<strong>- Home	</strong>Move a seleção da célula para a primeira célula da coluna</p>
+<strong>- Ctrl+Home	</strong> Move a seleção da célula para o início da planilha</p>
+<strong>- Ctrl+L / Ctrl+U	</strong> Abre a opção de Localizar e Substituir</p>
+<strong>- Ctrl+G (ou F5)		</strong> Abre a caixa de "Ir para"</p>
+<strong>- Ctrl+Setas		</strong>Move a seleção da célula para as extremidades onde contém conteúdo</p>
