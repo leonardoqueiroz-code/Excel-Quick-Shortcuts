@@ -8,8 +8,6 @@
 <strong>- Ctrl+Alt+P:</strong> Exibe a guia Imprimir<br>
 <strong>- Ctrl+Alt+O:</strong> Cria uma nova pasta de trabalho em branco.<br>
 <strong>- Ctrl+Alt+K</strong> Exibe a caixa de diálogo Inserir Hiperlink</p>
-
-
 <strong>- Page Down	</strong> Move a tela para baixo</p><br><br>
 <strong>-Page Up	</strong> Move a tela para cima</p><br>
 <strong>-Alt+Page Down	</strong> Move a tela para a direita</p><br>
