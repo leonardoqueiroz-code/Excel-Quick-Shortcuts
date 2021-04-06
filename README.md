@@ -19,3 +19,12 @@
 <strong>- Ctrl+L / Ctrl+U	</strong> Abre a opção de Localizar e Substituir<br>
 <strong>- Ctrl+G (ou F5)		</strong> Abre a caixa de "Ir para"<br>
 <strong>- Ctrl+Setas		</strong>Move a seleção da célula para as extremidades onde contém conteúdo<br>
+
+<strong>- Alt		</strong>Mostra as Dicas de Tecla (novos atalhos) na Faixa de Opções <br>
+<strong>- Backspace			</strong>Exclui um caractere à esquerda na Barra de Fórmulas.<br>
+<strong>- Delete		</strong>Remove o conteúdo (dados e fórmulas) das células selecionadas sem afetar o formato da célula ou os comentários.<br>
+<strong>-End		</strong>End ativa e desativa o modo de Término. No modo de Término, você pode pressionar uma tecla de direção para avançar para a próxima célula preenchida na mesma coluna ou linha como a célula ativa. O modo de Término é desativado automaticamente depois de pressionar a tecla de direção. Pressione End novamente antes de pressionar a próxima tecla de direção. O modo de Término é mostrado na barra de status quando ele está ativado.<br>
+<strong>-Esc		</strong>Cancela uma entrada na célula ou na Barra de Fórmulas.
+<br>
+
+
