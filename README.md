@@ -556,4 +556,4 @@
 </table>
 <p>&nbsp;</p>
 
-Conteúdo original: https://www.aprenderexcel.com.br/2014/dicas/teclas-de-atalho-do-excel
+Fonte: https://www.aprenderexcel.com.br/2014/dicas/teclas-de-atalho-do-excel
