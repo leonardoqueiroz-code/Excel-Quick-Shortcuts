@@ -554,6 +554,5 @@
 </tr>
 </thead>
 </table>
-<p>&nbsp;</p>
 
 Fonte: https://www.aprenderexcel.com.br/2014/dicas/teclas-de-atalho-do-excel
